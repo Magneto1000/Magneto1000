@@ -128,9 +128,9 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 
 ### 📊 Meus Status no GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Magneto1000&theme=dracula&show_icons=true" alt="Estatísticas do GitHub" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Magneto1000&theme=dracula&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magneto1000&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Magneto1000&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
