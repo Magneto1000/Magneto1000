@@ -1,13 +1,13 @@
 # Olá! Eu sou Juraci Nunes Tito Neto, ou só Tito 👋
 
-**Founder & CEO na UUP Software Solutions | Estudante de Engenharia de Software**
+**Founder & CEO na UUP Software Solutions | Estudante de Engenharia de Software | PO | PM**
 
-Sou apaixonado por criar soluções completas, unindo um bom design focado no usuário (UX/UI) com arquiteturas de software eficientes e integrações automatizadas. Atualmente, concilio meus estudos em Engenharia de Software com a liderança técnica e estratégica dos meus projetos.
+Sou apaixonado por criar soluções completas, unindo um design focado no usuário (UX/UI) com integrações automatizadas e sistemas escaláveis. Como estudante do 6º período de Engenharia de Software, combino essa base técnica com uma profunda paixão por gerenciamento de projetos e produtos. Guiado pelo objetivo de me consolidar como um Arquiteto de Software e Soluções, aplico essa visão ponta a ponta na liderança estratégica dos meus negócios, garantindo excelência desde a concepção estrutural até o lançamento.
 
 ### 🚀 O que estou fazendo agora
 <ul>
-  <li>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="22" align="center" alt="Maleta"> 
+ <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" align="center" alt="Maleta"> 
     <b>Founder & CEO</b> na <b>UUP Software Solutions</b>, liderando a engenharia de produtos e a estruturação da incubadora <b>StartUUP</b>.
   </li>
   <br>
@@ -18,11 +18,11 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
   <br>
   <li>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22" align="center" alt="Foguete"> 
-    Construindo o <b>Over Power</b> (plataforma gamificada de produtividade) e orquestrando fluxos avançados de automação.
+    Construindo o meu perfil como <b>Gerente de Produtos</b>.
   </li>
   <br>
-  <li>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" width="22" align="center" alt="Paleta de cores"> 
+ <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="25" align="center" alt="Paleta de cores"> 
     Unindo engenharia e <b>UX/UI Design</b> para projetar interfaces, animações e experiências fluidas centradas no usuário.
   </li>
 </ul>
@@ -65,6 +65,8 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
 </div>
 <br>
 
+<br>
+
 <div align="left">
   <!-- Título Animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=0077B5&width=435&lines=Meus+Projetos;Repositórios+em+Destaque" alt="Projetos" />
@@ -75,7 +77,8 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
 <table width="100%" border="0" align="center">
   <tr>
     <td width="50%" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" width="28" align="center"> Over Power</h3>
+      <!-- Ícone 3D Animado de Jornal -->
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="35" align="center" alt="Newspaper"> Meu Blog</h3>
       <p align="center">Plataforma centralizada própria criada para publicação de artigos científicos e projetos.</p>
       <br>
       <a href="https://github.com/Magneto1000/meu-blog.git">
@@ -83,7 +86,8 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" width="28" align="center"> CLAQUETTE</h3>
+      <!-- Ícone 3D Animado de Claquete -->
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="35" align="center" alt="Clapperboard"> Quadro Kanban</h3>
       <p align="center">Teste prático aplicado ao Processo Seletivo Veritas Fullstack.</p>
       <br>
       <a href="https://github.com/Magneto1000/desafio-fullstack-veritas.git">
@@ -93,18 +97,21 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" align="center"> StartUUP</h3>
-      <p align="center">Estruturação de uma incubadora e ecossistema de negócios com marcos gamificados baseados na metodologia Lean.</p>
+      <!-- Ícone 3D Animado de Foguete -->
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center" alt="Rocket"> StartUUP</h3>
+      <p align="center">Não posso falar muito ainda sobre este projeto, mas ele PROMETE CAUSAR!</p>
       <br>
-      <a href="COLE_O_LINK_DO_REPOSITORIO_AQUI">
-        <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar">
+      <!-- Botão de contato sobre o projeto privado -->
+      <a href="mailto:juraci@uup.dev">
+        <img src="https://img.shields.io/badge/Contatar_sobre-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contatar">
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="28" align="center"> UUP Software</h3>
+      <!-- Ícone 3D Animado de Maleta -->
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" align="center" alt="Briefcase"> UUP Software Solutions</h3>
       <p align="center">Infraestrutura e soluções corporativas focadas em integração automatizada e arquiteturas de alta performance.</p>
       <br>
-      <a href="COLE_O_LINK_DO_REPOSITORIO_AQUI">
+      <a href="https://uup-site.vercel.app">
         <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar">
       </a>
     </td>
@@ -112,21 +119,15 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
 </table>
 
 <br>
-**Infraestrutura & Automação:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Design (UX/UI):**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
+<br>
+ 
 
 ### 📊 Meus Status no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magnetotito1000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGNETO1000&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magneto1000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magneto1000&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -136,3 +137,5 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
 [![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
+
