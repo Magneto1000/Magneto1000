@@ -76,17 +76,17 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
   <tr>
     <td width="50%" align="center">
       <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" width="28" align="center"> Over Power</h3>
-      <p align="center">Plataforma gamificada de produtividade e gestão de tarefas, focada em motivação através de recompensas e progressão.</p>
+      <p align="center">Plataforma centralizada própria criada para publicação de artigos científicos e projetos.</p>
       <br>
-      <a href="COLE_O_LINK_DO_REPOSITORIO_AQUI">
+      <a href="https://github.com/Magneto1000/meu-blog.git">
         <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar">
       </a>
     </td>
     <td width="50%" align="center">
       <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" width="28" align="center"> CLAQUETTE</h3>
-      <p align="center">Estudo de caso e engenharia de UX detalhando um app de descoberta de vídeos focado em uma interface imersiva.</p>
+      <p align="center">Teste prático aplicado ao Processo Seletivo Veritas Fullstack.</p>
       <br>
-      <a href="COLE_O_LINK_DO_REPOSITORIO_AQUI">
+      <a href="https://github.com/Magneto1000/desafio-fullstack-veritas.git">
         <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar">
       </a>
     </td>
@@ -126,30 +126,13 @@ Sou apaixonado por criar soluções completas, unindo um bom design focado no us
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magnetotito1000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGNETO1000&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 📬 Como me encontrar
-<div align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jn-tito-neto-742385126" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.gif" width="45" alt="LinkedIn">
-  </a>
-  
-  <!-- E-mail -->
-  <a href="mailto:magnetotito@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.gif" width="45" alt="Email">
-  </a>
-  
-  <!-- Portfólio -->
-  <a href="https://site-ux-me.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Website.gif" width="45" alt="Portfólio">
-  </a>
-  
-  <!-- Artigos -->
-  <a href="https://meu-blog-jade.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45" alt="Artigos">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jn-tito-neto-742385126)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
+[![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
