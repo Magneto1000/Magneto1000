@@ -1,4 +1,7 @@
-# Olá! Eu sou Juraci Nunes Tito Neto, ou só Tito 👋
+<h1>
+  Olá! Eu sou Juraci Nunes Tito Neto, ou só Tito 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" alt="Acenando">
+</h1>
 
 **Founder & CEO na UUP Software Solutions | Estudante de Engenharia de Software | PO | PM**
 
@@ -136,5 +139,5 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
 [![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
 
