@@ -6,7 +6,9 @@
 **Founder & CEO na UUP Software Solutions | Estudante de Engenharia de Software | PO | PM**
 
 Sou apaixonado por criar soluções completas, unindo um design focado no usuário (UX/UI) com integrações automatizadas e sistemas escaláveis. Como estudante do 6º período de Engenharia de Software, combino essa base técnica com uma profunda paixão por gerenciamento de projetos e produtos. Guiado pelo objetivo de me consolidar como um Arquiteto de Software e Soluções, aplico essa visão ponta a ponta na liderança estratégica dos meus negócios, garantindo excelência desde a concepção estrutural até o lançamento.
-
+<br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f52c/512.gif" width="150" align="center" alt="Cientista Animado">
+<br>
 ### 🚀 O que estou fazendo agora
 <ul>
  <li>
@@ -124,17 +126,6 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 <br>
 
 <br>
- 
-
-### 📊 Meus Status no GitHub
-
-<div align="center">
-
-[![Estatísticas do Tito](https://github-readme-stats.vercel.app/api?username=Magneto1000&theme=dracula&show_icons=true&count_private=false&v=777)](https://github.com/Magneto1000)
-
-[![Linguagens do Tito](https://github-readme-stats.vercel.app/api/top-langs/?username=Magneto1000&layout=compact&langs_count=7&theme=dracula&v=777)](https://github.com/Magneto1000)
-
-</div>
 
 ---
 
@@ -143,5 +134,4 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
 [![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
-[![Site UUP Software Solutions](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
-
+[![Site UUP Software Solutions](https://img.shields.io/badge/Site_UUP-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
