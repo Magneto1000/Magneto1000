@@ -7,7 +7,7 @@
 
 Sou apaixonado por criar soluções completas, unindo um design focado no usuário (UX/UI) com integrações automatizadas e sistemas escaláveis. Como estudante do 6º período de Engenharia de Software, combino essa base técnica com uma profunda paixão por gerenciamento de projetos e produtos. Guiado pelo objetivo de me consolidar como um Arquiteto de Software e Soluções, aplico essa visão ponta a ponta na liderança estratégica dos meus negócios, garantindo excelência desde a concepção estrutural até o lançamento.
 <br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f52c/512.gif" width="40" align="center" alt="Cientista Animado">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f52c/512.gif" width="30" align="center" alt="Cientista Animado">
 <br>
 ### 🚀 O que estou fazendo agora
 <ul>
