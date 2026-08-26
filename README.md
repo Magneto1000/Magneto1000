@@ -11,9 +11,9 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 <br>
 ### 🚀 O que estou fazendo agora
 <ul>
- <li>
+  <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" align="center" alt="Maleta"> 
-    <b>Founder & CEO</b> na <b>UUP Software Solutions</b>, liderando a engenharia de produtos e a estruturação da incubadora <b>StartUUP</b>.
+    <b>Desenvolvedor de Produto (PM)</b> na <b>UUP Software Solutions</b>, liderando o ciclo de vida, a engenharia de produtos e a estruturação da incubadora <b>StartUUP</b>.
   </li>
   <br>
   <li>
@@ -134,4 +134,4 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
 [![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
-[![Site UUP Software Solutions](https://img.shields.io/badge/Site_UUP-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
+ 
