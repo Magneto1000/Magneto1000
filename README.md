@@ -129,7 +129,11 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 ### 📊 Meus Status no GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Magneto1000&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus" />
+
+[![Estatísticas do Tito](https://github-readme-stats.vercel.app/api?username=Magneto1000&theme=dracula&show_icons=true&count_private=false&v=777)](https://github.com/Magneto1000)
+
+[![Linguagens do Tito](https://github-readme-stats.vercel.app/api/top-langs/?username=Magneto1000&layout=compact&langs_count=7&theme=dracula&v=777)](https://github.com/Magneto1000)
+
 </div>
 
 ---
@@ -139,5 +143,5 @@ Sou apaixonado por criar soluções completas, unindo um design focado no usuár
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnetotito@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://site-ux-me.vercel.app)
 [![Veja meus artigos](https://img.shields.io/badge/Artigos-%23F24E1E.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://meu-blog-jade.vercel.app)
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
+[![Site UUP Software Solutions](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://uup-site.vercel.app)
 
