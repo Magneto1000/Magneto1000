@@ -86,7 +86,7 @@ Sou apaixonado por CRIAR SOLUÇÕES COMPLETAS, unindo um design focado no usuár
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="35" align="center" alt="Newspaper"> Meu Blog</h3>
       <p align="center">Plataforma centralizada própria criada para publicação de artigos científicos e projetos.</p>
       <br>
-      <a href="https://github.com/Magneto1000/meu-blog.git">
+      <a href="https://meu-blog-jade.vercel.app">
         <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar">
       </a>
     </td>
