@@ -107,7 +107,7 @@ Sou apaixonado por CRIAR SOLUÇÕES COMPLETAS, unindo um design focado no usuár
       <p align="center">Não posso falar muito ainda sobre este projeto, mas ele PROMETE CAUSAR!</p>
       <br>
       <!-- Botão de contato sobre o projeto privado -->
-      <a href="mailto:juraci@uup.dev">
+      <a href="https://startuup-plataforma.vercel.app">
         <img src="https://img.shields.io/badge/Contatar_sobre-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contatar">
       </a>
     </td>
