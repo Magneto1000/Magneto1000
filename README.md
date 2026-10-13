@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" alt="Acenando">
 </h1>
 
-**Founder & CEO na UUP Software Solutions | Estudante de Engenharia de Software | PO | PM**
+**Founder & CEO da StartUUP | Estudante de Engenharia de Software & Ciência da Computação | PO | PM**
 
 Sou apaixonado por CRIAR SOLUÇÕES COMPLETAS, unindo um design focado no usuário (UX/UI) com integrações automatizadas e sistemas escaláveis, sempre usando da melhor forma as ferramentas que possuo: Ou seja, muita IA. Como estudante do 6º período de Engenharia de Software, combino essa base técnica com uma profunda paixão por CRIAR e GERENCIAR projetos e produtos. Guiado pelo objetivo de me consolidar como um Arquiteto de Software e Soluções, aplico essa visão ponta a ponta na liderança estratégica dos meus negócios, garantindo excelência desde a concepção estrutural até o lançamento.
 <br>
