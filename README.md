@@ -30,7 +30,7 @@
 
 ### 🥼 O Manifesto do Laboratório
 
-> *"Não escrevo apenas código — formulo hipóteses, testo ideias e invento sistemas que geram valor real."*
+> *"O segredo é ser bom com pessoas e ser excelente em resolver problemas... Por isso, não escrevo apenas código — formulo hipóteses, testo ideias e crio sistemas que geram valor real."*
 
 Eu me considero um **cientista e inventor na área de tecnologia**. Vista o jaleco branco comigo: meu habitat natural é pegar um problema complexo do mundo real, dissecar suas causas, desenhar a solução e colocá-la para rodar com criatividade, **UX Design** e **Agentes de IA**.
 
